@@ -1,4 +1,4 @@
-fghhhh#!/usr/bin/python3
+#!/usr/bin/python3
 '''
  </> ---------------------------------------------
  </> Released By : @SCEF_KING007
