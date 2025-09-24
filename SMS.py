@@ -21,7 +21,7 @@ time.sleep(3);os.system("clear")
 print("\n\n\033[1;33m <\\> \033[1;32mRequirements Updating...\n\n\t\033[1;32m<\\> \033[1;33mPlease Wait... ")
 try:import rich
 except:
-    print("\n \033[1;32m  <\> Installing Rich...\n\n")
+    print("\n \033[1;32m  <\\> Installing Rich...\n\n")
     os.system("pip install rich");import rich
 try:import requests
 except:
